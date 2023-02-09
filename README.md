@@ -1,10 +1,9 @@
-# cypressfundamentals
-Core Concepts
+# Core Concepts
 
-	- Test structure
-	- Interacting with elements
-		- Commands
-		- Selectors
-		- Assertions
-	- Retry -ability
-    - Aliases
+- Test structure
+- Interacting with elements
+    - Commands
+    - Selectors
+    - Assertions
+- Retry -ability
+- Aliases
